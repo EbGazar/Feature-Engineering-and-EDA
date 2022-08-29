@@ -2,8 +2,16 @@
 
 Applying feature engineering and exploratory data analysis to various real world dataset.
 
-## 💡 AMES Housing Price.
 
+## Project Libraries and Modules.
+
+* [Numpy](https://numpy.org/doc/stable/index.html)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Scikit-learn](scikit-learn.org)
+
+## 💡 AMES Housing Price.
 
 #### Project Overview:
 
