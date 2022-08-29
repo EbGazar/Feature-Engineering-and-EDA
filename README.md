@@ -11,10 +11,10 @@ Applying feature engineering and exploratory data analysis to various real world
 * [Seaborn](https://seaborn.pydata.org/)
 * [Scikit-learn](scikit-learn.org)
 
-# Project List:
+## Project List:
 
-## 💡 AMES Housing Price.
+### 💡 AMES Housing Price.
 
-#### Project Overview:
+##### Project Overview:
 
 The AMES dataset contains information about houses, the dataset contains 77 features including the size of the house, neighborhood, etc...
