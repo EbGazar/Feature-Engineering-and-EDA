@@ -9,7 +9,7 @@ Applying feature engineering and exploratory data analysis to various real world
 * [Pandas](https://pandas.pydata.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
-* [Scikit-learn](https://scikit-learn.org/stable/))
+* [Scikit-learn](https://scikit-learn.org/stable/)
 
 ## Project List
 
