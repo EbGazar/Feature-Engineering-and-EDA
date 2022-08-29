@@ -11,7 +11,7 @@ Applying feature engineering and exploratory data analysis to various real world
 * [Seaborn](https://seaborn.pydata.org/)
 * [Scikit-learn](https://scikit-learn.org/stable/)
 
-## Project List
+## List of Projects
 
 ### 💡 AMES Housing Price.
 
