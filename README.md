@@ -13,8 +13,16 @@ Applying feature engineering and exploratory data analysis to various real world
 
 ## List of Projects
 
+### 💡 Diabets.
+
+##### Project Overview:
+
+The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+
 ### 💡 AMES Housing Price.
 
 ##### Project Overview:
 
 The AMES dataset contains information about houses, the dataset contains 77 features including the size of the house, neighborhood, etc...
+
+
