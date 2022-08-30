@@ -39,6 +39,9 @@ This database is also available through the UW CS ftp server:
 ftp ftp.cs.wisc.edu
 cd math-prog/cpo-dataset/machine-learn/WDBC/
 
+<details>
+ <summary> <b> Click to see more details! </b> </summary>
+
 Attribute Information:
 
 1) ID number
@@ -57,3 +60,4 @@ g) concavity (severity of concave portions of the contour)
 h) concave points (number of concave portions of the contour)
 i) symmetry
 j) fractal dimension ("coastline approximation" - 1)
+</details>
