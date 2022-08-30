@@ -41,7 +41,7 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
  <summary> <b> Click to see more details! </b> </summary>
 </br>
 Attribute Information:
-
+</br>
 * `ID number`
 * `Diagnosis (M = malignant, B = benign)`
 
